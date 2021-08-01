@@ -11,10 +11,10 @@ int main(void)
     // check n's positivity
     if (n > 0)
     {
-        print("n is positive");
+        printf("n is positive\n");
     }
     else
     {
-        print("n is negative");
+        printf("n is negative\n");
     }
 }
